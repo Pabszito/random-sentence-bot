@@ -1,0 +1,29 @@
+{
+  "name": "random-sentence-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that makes random sentences based on other messages.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pabszito/random-sentence-bot.git"
+  },
+  "keywords": [
+    "random",
+    "sentence",
+    "discord",
+    "bot"
+  ],
+  "author": "Pabszito",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Pabszito/random-sentence-bot/issues"
+  },
+  "homepage": "https://github.com/Pabszito/random-sentence-bot#readme",
+  "dependencies": {
+    "@greencoast/logger": "^1.1.0",
+    "discord.js": "^13.1.0"
+  }
+}

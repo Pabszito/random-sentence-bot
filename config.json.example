@@ -1,0 +1,11 @@
+{
+    "token" : "Your Discord Bot token goes here",
+    "training" : true,
+    "enabled" : true,
+    "allowedChannel" : "Allowed Channel ID",
+    "allowedGuild" : "Allowed Guild/Discord Server ID",
+    "ownerId" : "Bot Owner ID",
+    "acceptMentions" : false,
+    "logs" : true,
+    "prefix" : "!"
+}
