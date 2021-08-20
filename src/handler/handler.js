@@ -2,7 +2,6 @@ const fs = require('fs');
 const logger = require('@greencoast/logger');
 let data = require('../../data.json');
 
-// I didn't do this I swear
 function trainD(args, initial) {
     
     if (args.length < 2) return;
