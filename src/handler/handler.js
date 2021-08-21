@@ -1,9 +1,10 @@
+// Original code made by Yusshu (https://github.com/Yusshu), slightly modified to add the greencoast logger
+
 const fs = require('fs');
 const logger = require('@greencoast/logger');
 let data = require('../../data.json');
 
 function trainD(args, initial) {
-    
     if (args.length < 2) return;
 
     let word = args[0];
