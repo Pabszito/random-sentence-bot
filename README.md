@@ -1,5 +1,9 @@
 # Random sentence bot
 This bot makes random sentences based on older messages of a same channel and guild.
+
+## Credits
+Code base by [@yusshu](https://github.com/yusshu)
+
 ## Cloning
 Run the following command from the command line (make sure the "random-sentence-folder" is empty!):
 ```sh
